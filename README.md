@@ -3,7 +3,7 @@
 > (폴더를 탭방식으로 구현하다 모든걸 망쳐버린 모습)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&pause=1000&color=794004&background=FFFFFF00&width=435&lines=%EC%BD%94%EC%BD%94%ED%8F%AC%EB%A6%AC%EC%95%84+-+%EB%91%98%EC%9D%B4%EC%84%9C%EC%88%98%EC%82%AC+%EC%95%8C%EA%B3%A0%EC%9E%88%EC%97%88%EC%96%B4+%EC%B9%B4%EB%93%9C+%EA%B4%80%EB%A6%AC+%EB%A7%A4%EB%8B%88%EC%A0%80+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=30&duration=5001&pause=2000&color=794004&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=%EC%BD%94%EC%BD%94%ED%8F%AC%EB%A6%AC%EC%95%84+-+%EB%91%98%EC%9D%B4%EC%84%9C%EC%88%98%EC%82%AC+%EC%95%8C%EA%B3%A0%EC%9E%88%EC%97%88%EC%96%B4+%EC%B9%B4%EB%93%9C+%EA%B4%80%EB%A6%AC+%EB%A7%A4%EB%8B%88%EC%A0%80+)](https://git.io/typing-svg)
 
 
 코코포리아사이트에서 -모험 기획국의 둘이서수사 (フタリソウサ)-의 규칙 '알고있었어 카드'를 보조하기 위한 템퍼몽기 스크립트 입니다.
