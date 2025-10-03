@@ -6,6 +6,8 @@
 // @author       힐에블
 // @match        https://ccfolia.com/rooms/*
 // @exclude      https://ccfolia.com/rooms/*/chat
+// @downloadURL  https://raw.githubusercontent.com/kanezdream-byte/CC_Known-card-manager/main/known_card.js
+// @updateURL    https://raw.githubusercontent.com/kanezdream-byte/CC_Known-card-manager/main/known_card.js
 // @grant        none
 // ==/UserScript==
 
