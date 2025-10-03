@@ -3942,49 +3942,49 @@
             const easterEggData = {
                 1: {
                     message: "🎉 대실패는 세션의 묘미죠! 코딩은... 슬프더라구요.",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 1번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 1번 캐릭터 이미지
                 },
                 2: {
                     message: "✨ 둘수사를 두 번 가는 날! 둘수사를 두 번 가는 날!",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 2번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 2번 캐릭터 이미지
                 },
                 3: {
-                    message: "🍀 하시는 일 모두 행복하길 바래요.",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 3번 캐릭터 이미지
+                    message: "🍀 언젠가 프로그램을 만들면 이스터에그를 남겨보고 싶었어요.",
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 3번 캐릭터 이미지
                 },
                 4: {
                     message: " 틈새 * https://kre.pe/HxFH * 홍보 ",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 4번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 4번 캐릭터 이미지
                 },
                 5: {
                     message: "🌈 둘수사 서플 발매 기원중...",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 5번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 5번 캐릭터 이미지
                 },
                 6: {
                     message: "왼쪽의 토큰이 멋지고 예쁘고 훌륭한가요? 언제든 신청 가능! https://kre.pe/l6pR",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 6번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 6번 캐릭터 이미지
                 },
                 7: {
                     message: "🌟 즐거운 세션을 같이할 상대만큼의 행운이 탐정님에게 찾아오길.",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 7번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 7번 캐릭터 이미지
                 },
                 8: {
                     message: "💫 https://kre.pe/cB0r 짜잔 커미션 항상 오픈!",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 8번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 8번 캐릭터 이미지
                 },
                 9: {
                     message: "🎯 추가적인 배포및 안내 사항은 https://www.postype.com/@bysmile 를 참조해주세요. ",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 9번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 9번 캐릭터 이미지
                 },
                 10: {
                     message: "🎊 축하드립니다! 그리고 감사합니다! 세션이 도움 되는 프로그램이었길 바랍니다!",
-                    image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" // 10번 캐릭터 이미지
+                    image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" // 10번 캐릭터 이미지
                 }
             };
             
             const data = easterEggData[number] || { 
                 message: "🎉 놀라운 결과입니다!", 
-                image: "https://drive.google.com/thumbnail?id=15wfXuD19AQYRplVqn7fd7rZB2mf1K5P_&sz=w200" 
+                image: "https://drive.google.com/uc?id=1I93c1BpjB-mBFogbNIlEcuOLqodpzbPX" 
             };
             
             // 각 결과별 확률 계산 (1d10 3개가 모두 같을 확률)
