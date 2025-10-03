@@ -2,6 +2,11 @@
 
 > (폴더를 탭방식으로 구현하다 모든걸 망쳐버린 모습)
 
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=10000&pause=1000&color=794004&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=1000&height=100&lines=%EC%BD%94%EC%BD%94%ED%8F%AC%EB%A6%AC%EC%95%84+-+%EB%91%98%EC%9D%B4%EC%84%9C%EC%88%98%EC%82%AC+%EC%95%8C%EA%B3%A0%EC%9E%88%EC%97%88%EC%96%B4+%EC%B9%B4%EB%93%9C+%EA%B4%80%EB%A6%AC+%EB%A7%A4%EB%8B%88%EC%A0%80+)](https://git.io/typing-svg)
 
 
@@ -21,6 +26,8 @@
 
 카드 : 알았카 카드입니다. 카드 내용은 자유롭게 변경가능하며, 카드이름과 카드 내용 지정이 가능합니다.
 
+
+
 ---
 
 ### 2. 동적 키워드
@@ -32,6 +39,8 @@
 정보 공개 제어 (토글 메커니즘): 카드에 적용된 키워드를 클릭하면, [키워드 전문 텍스트]와 [번호가 부여된 원형 아이콘 ❶] 두 가지 상태를 오가며 전환됩니다. 이 토글(Toggle) 기능을 통해 조사나 대화의 진행 상황에 맞춰 특정 정보만 선택적으로 공개하는 정교한 정보 컨트롤이 가능합니다.
 
 * 플레이어에게 정보를 공유하기 위해 복사할때도 공개 / 비공개 양식을 그대로 사용합니다.
+
+
 
 ---
 
@@ -50,6 +59,8 @@
 가져오기(Import): 📥 가져오기 버튼을 통해 저장된 .json 파일을 불러올 수 있습니다. 
 
 개인적으로 작성한 시나리오, 혹은 준비한 알았카 내용을 공유하기 위한 기능입니다.  
+
+
 
 ---
 
